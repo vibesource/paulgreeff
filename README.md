@@ -10,12 +10,12 @@ I studied Electronic Engineering and completed my postgraduate studies specialis
 During my postgraduate studies I started lecturing in the engineering department, electronic and computer engineering, as well as the computer science department. 
 
 The subject matter was diverse and include in no particular order
-Software engineering (postgraduate and undergraduate)
-VHDL programming
-Digital systems
-Computer architecture and microcontrollers
-Engineering graphics
-And courses presented to industry - Telecommunications fundamentals.
+- Software engineering (postgraduate and undergraduate)
+- VHDL programming
+- Digital systems
+- Computer architecture and microcontrollers
+- Engineering graphics
+- And courses presented to industry - Telecommunications fundamentals.
 
 At the time I joined I was the youngest lecturer in the department until a gifted fellow student dethroned me.
 
