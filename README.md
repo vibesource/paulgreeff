@@ -20,7 +20,7 @@ The subject matter was diverse and include in no particular order
 At the time I joined I was the youngest lecturer in the department until a gifted fellow student dethroned me.
 
 #### Work experience
-Sex years later, a little bit of boredom and an exciting offer, afforded me an opportunity to defect to private industry.
+Six years later, a little bit of boredom and an exciting offer, afforded me an opportunity to defect to private industry.
 
 Responsibilities started out initially with programming in PHP, bash and Postgres SQL and later transitioned more to presales, marketing, operations and client support. 
 
