@@ -6,7 +6,7 @@ I've been involved in software developent and operations for the last 15 years.
 Read more about me on my
 [Github page][Github page]
 
-[Github page]: http://paulgreeff.github.com
+[Github page]: http://paulgreeff.github.io
 <!--
 **paulgreeff/paulgreeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
