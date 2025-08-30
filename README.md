@@ -1,4 +1,4 @@
-## Hi, I'm Paul
+## Hi, I'm VibeSource
 
 ### About me
 I've been involved in software developent and operations for the last 15 years.
@@ -6,9 +6,9 @@ I've been involved in software developent and operations for the last 15 years.
 Read more about me on my
 [Github page][Github page]
 
-[Github page]: http://paulgreeff.github.io
+[Github page]: http://vibesource.github.io
 <!--
-**paulgreeff/paulgreeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vibesource/vibesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
